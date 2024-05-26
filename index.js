@@ -22,4 +22,7 @@
 
 const anyFction =() =>{
   setTimeout(()=> // accion asincron a revisar el git de leon para ver el codigo completo 
-}
+}/*
+ Promesas - promises
+ mecanismo de aaciones asincronas
+*/
